@@ -10,6 +10,7 @@
   "logo": "https://i.ibb.co/R2cswyL/folder.png",
   "success_url": "https://avipatilweb.ml",
   "website": "https://github.com/avipatilpro/FileStoreBot",
+  "stack": "heroku-22",
   "repository": "https://github.com/avipatilpro/FileStoreBot",
   "env": {
     "WEBHOOK": {
